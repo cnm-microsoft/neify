@@ -1,0 +1,4 @@
+[[redirects]]
+  from = "/*"
+  to = "https://duckduckgo.com/:splat"
+  status = 200
