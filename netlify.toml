@@ -1,4 +1,4 @@
 [[redirects]]
   from = "/*"
-  to = "https://duckduckgo.com/:splat"
+  to = "https://Duck.ai/:splat"
   status = 200
